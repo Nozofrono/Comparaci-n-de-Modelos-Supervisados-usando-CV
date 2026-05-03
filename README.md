@@ -1,4 +1,5 @@
 ## Comparación-de-Modelos-Supervisados-usando-CV
+Por: Juan Guillermo Marulanda Mesa
 
 ## Descripción del Dataset
 El dataset utilizado en este proyecto es el **Bitcoin Historical Data**, obtenido de Kaggle a través de `kagglehub`. Contiene datos históricos minuto a minuto del precio de Bitcoin (BTC/USD).
